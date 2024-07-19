@@ -1,5 +1,6 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+If you like this project, consider sponsoring the developer by buying a metaphorical coffee!
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100" height="30">](https://www.buymeacoffee.com/uzzielperej)
 
 # Getting Started
