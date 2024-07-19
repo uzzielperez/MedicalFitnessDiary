@@ -1,6 +1,6 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/uzzielperej)
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100" height="40">](https://www.buymeacoffee.com/uzzielperej)
 
 # Getting Started
 
